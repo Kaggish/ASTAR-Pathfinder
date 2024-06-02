@@ -1,0 +1,50 @@
+﻿  Game.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Game.cpp(229,151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Game.cpp(229,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Game.cpp(229,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Game.cpp(229,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Grid.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(120,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(120,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(134,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(138,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(143,57): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(147,57): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(151,57): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Grid.cpp(155,57): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+  PathFinder.cpp
+  Star.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\Star.cpp(6,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  StarChaser.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\StarChaser.cpp(6,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  StarShip.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\StarShip.cpp(7,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TradingPost.cpp
+C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Source\TradingPost.cpp(6,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  raylib_template.vcxproj -> C:\Users\Jakub Orlowski\Desktop\Hacking\AI\5SD806_Jakub Orlowski_When you wish upon astar-1\Build\Debug\raylib_template.exe
